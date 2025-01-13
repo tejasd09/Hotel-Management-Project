@@ -1,2 +1,2 @@
 # Hotel-Management-Project
-A Java-based Hotel Management System project utilizing JDBC for database connectivity 
+A Java-based hotel management system project utilizing JDBC for database connectivity 
