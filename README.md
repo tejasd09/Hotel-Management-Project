@@ -1,2 +1,4 @@
-# Hotel-Reservation-Project
-A Java-based hotel reservation system project utilizing JDBC for database connectivity 
+# Hotel-Management-Project
+A simple Hotel Management System built using Java and JDBC, which allows users to manage hotel reservations through a MySQL database.
+
+
